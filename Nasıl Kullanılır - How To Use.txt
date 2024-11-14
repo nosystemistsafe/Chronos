@@ -1,0 +1,19 @@
+İlk önce kendi dilinizi seçin.
+Sonra Powershell'i açın.
+"python" yazıp sürükle-bırak yaparak chronostr.py dosyasını yanına atın.
+Çalıştırıp kullanın.
+
+Wählen Sie zunächst Ihre Sprache.
+Öffnen Sie dann Powershell.
+Geben Sie „python“ ein und ziehen Sie die Datei chronosde.py per Drag & Drop daneben.
+Führen Sie es aus und verwenden Sie es.
+
+First choose your language.
+Then open Powershell.
+Type "python" and drag and drop the chronosen.py file next to it.
+Run it and use it.
+
+
+chronostr.py = Türkçe, Turkish, TR.
+chronosde.py = Almanca, Deutsch, German, DE.
+chronosen.py = İngilizce, English, EN.

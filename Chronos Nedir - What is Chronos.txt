@@ -1,0 +1,9 @@
+TR/Chronos, açık kaynaklı bir Port, Proxy, UDP portu tarayıcısı ve IP haritacısıdır. 
+DE/Chronos ist ein Open-Source-Port-, Proxy-, UDP-Port-Scanner und IP-Mapper.
+EN/Chronos is an open-source Port, Proxy, UDP Port scanner and IP mapper.
+
+Chronos üç dili desteklemektedir. Türkçe, Almanca ve İngilizce.
+Chronos unterstützt drei Sprachen. Türkisch, Deutsch und Englisch.
+Chronos supports three languages. Turkish, German and English.
+
+Yapımcı olarak ben bir Türküm. Benim için ilk önce Türkçe gelir. O yüzden Türkçe'yi en başa koydum!
