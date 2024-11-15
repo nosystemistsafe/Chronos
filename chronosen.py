@@ -8,8 +8,7 @@ print("""
  ░░█████████  █████   █████ █████   █████ ░░░███████░   █████  ░░█████ ░░░███████░  ░░█████████ 
   ░░░░░░░░░  ░░░░░   ░░░░░ ░░░░░   ░░░░░    ░░░░░░░    ░░░░░    ░░░░░    ░░░░░░░     ░░░░░░░░░  
 """)
-print("""Chronos is made by tunaeymen027. A Turkish white hat hacker and ethical cyber security program maker. He is not the responsible
-of what you do with this program.""")
+print("""The producer of this program is not the responsible of what you do with this program.""")
 print("""Chronos is an IP mapper, Proxy, UDP port, and Port scanner.""")
 print("""Chronos v1.0""")
 
